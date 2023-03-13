@@ -1,7 +1,8 @@
 # YouTube_API_analisys_PewDiePie
 Анализ открытых данных о состоянии канала некогда самого популярного блоггера в мире - PewDiePie 
 
-# Если у вас не открываются графики ploty, то посмотреть проект будет удобнее через nbviewer: https://nbviewer.org/github/Igaime/YouTube_API_analisys_PewDiePie/blob/main/youtube_project.ipynb
+# Если у вас не открываются графики ploty, то посмотреть проект будет удобнее через nbviewer: 
+[Жми сюда](https://nbviewer.org/github/Igaime/YouTube_API_analisys_PewDiePie/blob/main/youtube_project.ipynb)
 
 # Описание проекта
 Проект по анализу ютуб канала PewDiePie (Феликс Чельберг) - это исследование различных аспектов канала, таких как количество подписчиков, количество просмотров, тенденции роста и падения популярности и другие показатели. Анализ этого канала представляет интерес для анализа данных по нескольким причинам:
