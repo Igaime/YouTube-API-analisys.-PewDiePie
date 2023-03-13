@@ -1,7 +1,7 @@
 # YouTube_API_analisys_PewDiePie
 Анализ открытых данных о состоянии канала некогда самого популярного блоггера в мире - PewDiePie 
 
-# Если у вас не открываются графики ploty, то посмотреть проект будет удобнее через nbviewer: 
+## Если у вас не открываются графики ploty, то посмотреть проект будет удобнее через nbviewer: 
 [Ссылка](https://nbviewer.org/github/Igaime/YouTube_API_analisys_PewDiePie/blob/main/youtube_project.ipynb)
 
 # Описание проекта
